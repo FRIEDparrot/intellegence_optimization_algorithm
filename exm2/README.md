@@ -128,7 +128,7 @@ and the best path is:
 
 The following is two results compared in the exam sheet: 
 
-1. non-adaptive mutation and no vaccine use:
+1. non-adaptive mutation and no vaccine use :
 ```python
 best_seq = tsp(cities,
         n_population=700,

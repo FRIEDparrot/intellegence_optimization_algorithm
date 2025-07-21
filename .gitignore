@@ -6,3 +6,10 @@
 *.iml
 out
 gen
+
+# pycharm project files 
+.pytest_cache 
+.__pycache__  
+
+# report 
+report.md
